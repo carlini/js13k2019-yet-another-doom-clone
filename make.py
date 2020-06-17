@@ -19,7 +19,6 @@
 import re
 import os
 import string
-import esprima
 
 def encode(num,orig):
     #print("set", num, orig)
