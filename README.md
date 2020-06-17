@@ -8,16 +8,16 @@ Writeup of the development process: [https://nicholas.carlini.com/writing/2019/j
 
 ## I JUST WANT TO PLAY
 
-If you just want to play the game (and don't want to play it [https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html](online)) then you can get started by cloning this repository:
+If you just want to play the game (and don't want to play it [online](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html)) then you can get started by cloning this repository:
 
-```git clone git@github.com:carlini/js13k2019-yet-another-doom-clone.git```
+```git clone https://github.com/carlini/js13k2019-yet-another-doom-clone.git```
 
 and then just directly view the file [doom.html](doom.html) from your browser.
 
 
 ### I want to see developer mode
 
-From the main repository view the file [src/doom.html](doom.html) from your browser.
+From the main repository view the file [src/webgl.html](src/webgl.html) from your browser.
 
 This file additionally displays the frame rate, some statistics on how many frames took longer than 16ms to render, and shows the map editor.
 
