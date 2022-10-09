@@ -153,7 +153,7 @@ def compress_webgl_variables(original_data, data):
     return data
         
 def compress():
-    files = ["jsfxr.js", "audio.js", "utils.js", "objects.js", "graphics.js", "game.js", "map.js", "webgl.js"]
+    files = ["jsfxr.js", "audio.js", "utils.js", "objects.js", "graphics.js", "game.js", "map.js", "webgl.js", "shaders/program1.js"]
     #raw = "".join([chr(x) for x in open("src/raw_data.js","rb").read()])
     #print(raw)
 
